@@ -1,32 +1,39 @@
-CyberNexus: Interactive Cyber Threat Visualization Dashboard
-This repository contains the complete documentation, research, and project management assets for the CyberNexus platform.
+# CyberOps: Interactive AI-Augmented Cyber Threat Visualization Dashboard
 
- cybernexus_demo_video.mp4 
-🚀 Quick Links
-🌐 Live Demo: cybernexus-seven.vercel.app
-💻 Development Repository: View Source Code on GitHub
-🎥 Project Video Demo
-Click the preview below to watch the full 14-minute demo on YouTube:
+This repository contains the complete **documentation, research, and project management assets** for the CyberOps platform, providing a structured overview of the project for internship evaluation.
 
-CyberNexus Demo
-📂 Project Structure & Deliverables
-This repository is organized into the following sections for Internship evaluation:
+---
 
-1. Planning & Agile Documentation
-Agile Docs: Agile Documentation
-PPT: Project Presentation
-System Architecture Diagram:
+## 🚀 Quick Links
+- 🌐 **Live Demo:** [Open Live Demo](https://threatscape-synth-peach.vercel.app)    
+- 💻 **Development Repository:** [View Source Code](https://github.com/Joshitha1015/threatscape-synth)  
 
-Architecture Diagram
-2. Research & Tasks
-Model Research: Detailed Research PDF
-Python Implementation: Jupyter Notebook
-Data Analysis (SQL): SQL Task Script
-3. Technical Core
-The actual development, frontend, and deployment logic are maintained in the Cybernexus Development Repo to ensure a clean separation between documentation and production code.
+---
 
-🛠 Tech Stack
-Documentation: Microsoft Word (for research), Microsoft Excel (for agile doc)
-Development: React, TypeScript, Vite, Tailwind CSS
-Analysis: Python (Pandas/NumPy), SQL
+## 📂 Project Structure & Deliverables
+
+### 1. Planning & Agile Documentation
+- [Agile Documentation](Agile%20docx%20Grp-B(Team-A).xlsx)  
+- [Project Presentation (PPT)](#)  
+- [System Architecture Diagram](Architecture.jpeg)  
+
+### 2. Research & Tasks
+- [Model Research PDF](Model%20Research.pdf)  
+- [Python Implementation (Jupyter Notebook)](Python%20Task.ipynb)  
+- [Data Analysis (SQL Task Script)](SQL%20Task.ipynb)  
+
+### 3. Technical Core
+The **development, frontend, and deployment logic** are maintained in the CyberOps Development Repo, ensuring a clean separation between documentation and production code.  
+
+> ⚠️ The development repo contains sensitive environment variables and is kept private. Evaluators can access the **live demo** to see the full application.  
+
+---
+
+## 🛠 Tech Stack
+- **Documentation:** Microsoft Word, Microsoft Excel  
+- **Frontend Development:** React, TypeScript, Vite, Tailwind CSS, shadcn-ui  
+- **Data Analysis & AI:** Python (Pandas, NumPy), SQL  
+
+---
+
 
