@@ -1,34 +1,32 @@
-CyberOps: Interactive AI-Augmented Cyber Threat Visualization Dashboard
+CyberNexus: Interactive Cyber Threat Visualization Dashboard
+This repository contains the complete documentation, research, and project management assets for the CyberNexus platform.
 
-This repository contains the complete documentation, research, and project management assets for the CyberOps platform, providing a structured overview of the project for internship evaluation.
-
+ cybernexus_demo_video.mp4 
 🚀 Quick Links
+🌐 Live Demo: cybernexus-seven.vercel.app
+💻 Development Repository: View Source Code on GitHub
+🎥 Project Video Demo
+Click the preview below to watch the full 14-minute demo on YouTube:
 
-🌐 Live Demo: Open Live Demo
-
-⚠️ Note: For SPA routing, direct URLs like /login may show 404. Please use the main link and navigate through the app.
-
-💻 Development Repository: View Source Code
+CyberNexus Demo
 📂 Project Structure & Deliverables
-
-This repository is organized into the following sections for evaluation:
+This repository is organized into the following sections for Internship evaluation:
 
 1. Planning & Agile Documentation
-Agile Documentation
-Project Presentation (PPT)
-System Architecture Diagram
+Agile Docs: Agile Documentation
+PPT: Project Presentation
+System Architecture Diagram:
+
+Architecture Diagram
 2. Research & Tasks
-Model Research PDF
-Python Implementation (Jupyter Notebook)
-Data Analysis (SQL Task Script)
+Model Research: Detailed Research PDF
+Python Implementation: Jupyter Notebook
+Data Analysis (SQL): SQL Task Script
 3. Technical Core
-
-The development, frontend, and deployment logic are maintained in the CyberOps Development Repo, ensuring a clean separation between documentation and production code.
-
-⚠️ The development repo contains sensitive environment variables and is kept private. Evaluators can access the live demo to see the full application.
+The actual development, frontend, and deployment logic are maintained in the Cybernexus Development Repo to ensure a clean separation between documentation and production code.
 
 🛠 Tech Stack
-Documentation: Microsoft Word, Microsoft Excel
-Frontend Development: React, TypeScript, Vite, Tailwind CSS, shadcn-ui
-Data Analysis & AI: Python (Pandas, NumPy), SQL
+Documentation: Microsoft Word (for research), Microsoft Excel (for agile doc)
+Development: React, TypeScript, Vite, Tailwind CSS
+Analysis: Python (Pandas/NumPy), SQL
 
