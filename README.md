@@ -19,7 +19,7 @@ This repository contains the complete **documentation, research, and project man
 
 ### 2. Research & Tasks
 - [Model Research PDF](Model%20Research.pdf)  
-- [Python Implementation (Jupyter Notebook)](Python%20Task.ipynb)  
+- [Python Implementation (Colab Notebook)](Python%20Task.ipynb)  
 - [Data Analysis (SQL Task Script)](SQL%20Task.ipynb)  
 
 ### 3. Technical Core
