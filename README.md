@@ -4,9 +4,10 @@ This repository contains the complete **documentation, research, and project man
 
 ---
 
-## 🚀 Quick Links
-- 🌐 **Live Demo:** [Open Live Demo](https://threatscape-synth-peach.vercel.app)    
-- 💻 **Development Repository:** [View Source Code](https://github.com/Joshitha1015/threatscape-synth)  
+##  Quick Links
+-  **Live Demo:** [Open Live Demo](https://threatscape-synth-peach.vercel.app)    
+-  **Development Repository:** [View Source Code](https://github.com/Joshitha1015/threatscape-synth)
+-  **Project Video Demo:** [Click Here to Watch the Project Demo](#)
 
 ---
 
@@ -14,7 +15,7 @@ This repository contains the complete **documentation, research, and project man
 
 ### 1. Planning & Agile Documentation
 - [Agile Documentation](Agile%20docx%20Grp-B(Team-A).xlsx)  
-- [Project Presentation (PPT)](#)  
+- [Project Presentation (PPT)](Cyber Threat Visualization Dashboard.pptx)  
 - [System Architecture Diagram](Architecture.jpeg)  
 
 ### 2. Research & Tasks
