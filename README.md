@@ -15,7 +15,7 @@ This repository contains the complete **documentation, research, and project man
 
 ### 1. Planning & Agile Documentation
 - [Agile Documentation](Agile%20docx%20Grp-B(Team-A).xlsx)  
-- [Project Presentation (PPT)](Cyber Threat Visualization Dashboard.pptx)  
+- [Project Presentation](Cyber Threat Visualization Dashboard.pptx)
 - [System Architecture Diagram](Architecture.jpeg)  
 
 ### 2. Research & Tasks
